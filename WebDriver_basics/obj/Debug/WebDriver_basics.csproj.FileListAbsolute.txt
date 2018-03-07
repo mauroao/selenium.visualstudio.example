@@ -1,0 +1,16 @@
+C:\Users\mauro.oliveira\source\repos\WebDriver_basics\WebDriver_basics\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\mauro.oliveira\source\repos\WebDriver_basics\WebDriver_basics\bin\Debug\nunit.engine.dll
+C:\Users\mauro.oliveira\source\repos\WebDriver_basics\WebDriver_basics\bin\Debug\nunit.engine.api.dll
+C:\Users\mauro.oliveira\source\repos\WebDriver_basics\WebDriver_basics\bin\Debug\Mono.Cecil.dll
+C:\Users\mauro.oliveira\source\repos\WebDriver_basics\WebDriver_basics\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\mauro.oliveira\source\repos\WebDriver_basics\WebDriver_basics\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\mauro.oliveira\source\repos\WebDriver_basics\WebDriver_basics\bin\Debug\Mono.Cecil.Rocks.dll
+C:\Users\mauro.oliveira\source\repos\WebDriver_basics\WebDriver_basics\bin\Debug\WebDriver_basics.dll
+C:\Users\mauro.oliveira\source\repos\WebDriver_basics\WebDriver_basics\bin\Debug\WebDriver_basics.pdb
+C:\Users\mauro.oliveira\source\repos\WebDriver_basics\WebDriver_basics\bin\Debug\nunit.framework.dll
+C:\Users\mauro.oliveira\source\repos\WebDriver_basics\WebDriver_basics\bin\Debug\WebDriver.dll
+C:\Users\mauro.oliveira\source\repos\WebDriver_basics\WebDriver_basics\bin\Debug\nunit.framework.xml
+C:\Users\mauro.oliveira\source\repos\WebDriver_basics\WebDriver_basics\bin\Debug\WebDriver.xml
+C:\Users\mauro.oliveira\source\repos\WebDriver_basics\WebDriver_basics\obj\Debug\WebDriver_basics.csproj.CoreCompileInputs.cache
+C:\Users\mauro.oliveira\source\repos\WebDriver_basics\WebDriver_basics\obj\Debug\WebDriver_basics.dll
+C:\Users\mauro.oliveira\source\repos\WebDriver_basics\WebDriver_basics\obj\Debug\WebDriver_basics.pdb
